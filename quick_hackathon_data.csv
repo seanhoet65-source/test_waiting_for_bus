@@ -1,0 +1,301 @@
+customer_id,age,income,credit_score,account_balance,num_transactions,city,account_type,feedback,churn
+1,63,,831.0,45737,178,Houston,Premium,Not happy with fees.,0
+2,20,92431.0,416.0,22305,135,Houston,Basic,Poor customer support.,1
+3,46,58106.0,453.0,39902,182,Houston,Gold,"Terrible experience, will switch banks.",0
+4,52,115093.0,,35976,43,NYC,Basic,Great service! Very satisfied.,0
+5,56,,818.0,12115,104,NYC,Basic,Not happy with fees.,0
+6,35,65205.0,750.0,41787,176,NYC,Gold,Great service! Very satisfied.,1
+7,37,36928.0,611.0,20915,70,NYC,Premium,Excellent! Best bank ever!,1
+8,60,82887.0,,30030,186,LA,Basic,"Terrible experience, will switch banks.",1
+9,40,35745.0,800.0,12959,189,NYC,Basic,Good experience overall.,0
+10,51,99714.0,393.0,49060,170,Houston,Premium,Not happy with fees.,1
+11,50,34442.0,822.0,37821,162,Philadelphia,Basic,"Terrible experience, will switch banks.",1
+12,67,99314.0,755.0,271,74,Houston,Basic,"Average service, nothing special.",0
+13,65,70791.0,548.0,34573,153,Philadelphia,Basic,"Average service, nothing special.",0
+14,27,118138.0,784.0,25772,62,Houston,Gold,Excellent! Best bank ever!,0
+15,50,83847.0,700.0,-1204,88,Phoenix,Basic,Decent but could be better.,0
+16,64,43971.0,474.0,15813,145,Houston,Basic,Good experience overall.,1
+17,50,21594.0,491.0,2064,79,LA,Premium,Decent but could be better.,0
+18,65,,713.0,19720,72,LA,Premium,Good experience overall.,1
+19,43,84257.0,534.0,-2830,185,Philadelphia,Gold,Love the mobile app!,0
+20,37,147464.0,827.0,47338,166,NYC,Basic,Excellent! Best bank ever!,1
+21,32,74161.0,418.0,7286,191,Houston,Gold,Poor customer support.,1
+22,54,92877.0,559.0,20453,62,Houston,Basic,"Terrible experience, will switch banks.",0
+23,50,104758.0,640.0,28698,170,Philadelphia,Basic,Disappointed with service.,1
+24,34,148510.0,349.0,33096,126,Philadelphia,Basic,Disappointed with service.,1
+25,22,32341.0,845.0,403,144,Houston,Basic,Good experience overall.,0
+26,67,128505.0,590.0,20281,60,LA,Basic,Decent but could be better.,0
+27,21,,363.0,40601,146,LA,Basic,Disappointed with service.,0
+28,20,104463.0,568.0,30904,93,Houston,Premium,Great service! Very satisfied.,1
+29,38,80288.0,838.0,46071,23,NYC,Premium,Great service! Very satisfied.,0
+30,57,40259.0,755.0,33530,128,Philadelphia,Basic,Excellent! Best bank ever!,0
+31,20,119185.0,553.0,3634,125,NYC,Premium,Poor customer support.,0
+32,38,80499.0,534.0,-1907,86,LA,Basic,Decent but could be better.,0
+33,65,100222.0,480.0,24097,80,Phoenix,Premium,Great service! Very satisfied.,0
+34,66,131175.0,659.0,5627,132,Houston,Basic,Poor customer support.,0
+35,25,76359.0,789.0,27206,71,LA,Premium,Poor customer support.,0
+36,59,148855.0,442.0,44251,186,Houston,Premium,"Terrible experience, will switch banks.",0
+37,53,39957.0,308.0,19294,77,LA,Gold,Great service! Very satisfied.,1
+38,46,58739.0,701.0,45955,97,LA,Premium,"Terrible experience, will switch banks.",0
+39,56,41366.0,588.0,39324,32,Chicago,Premium,Love the mobile app!,0
+40,51,113518.0,730.0,24423,133,Phoenix,Basic,Disappointed with service.,0
+41,39,39485.0,394.0,33440,144,LA,Gold,Disappointed with service.,1
+42,48,,507.0,45233,72,Chicago,Premium,Not happy with fees.,1
+43,45,126789.0,360.0,13494,195,LA,Premium,Love the mobile app!,0
+44,52,114209.0,746.0,40956,193,Chicago,Basic,"Terrible experience, will switch banks.",0
+45,51,28325.0,401.0,19666,135,Philadelphia,Premium,"Terrible experience, will switch banks.",0
+46,30,116617.0,747.0,25040,138,Chicago,Premium,Excellent! Best bank ever!,1
+47,58,60017.0,730.0,31368,133,Phoenix,Basic,Disappointed with service.,0
+48,21,117955.0,631.0,17427,135,Houston,Basic,Decent but could be better.,0
+49,60,129133.0,686.0,37870,183,Houston,Premium,"Terrible experience, will switch banks.",0
+50,23,132665.0,705.0,26156,7,Chicago,Gold,Great service! Very satisfied.,0
+51,18,61569.0,584.0,10129,124,LA,Basic,"Terrible experience, will switch banks.",0
+52,29,131221.0,703.0,3880,141,Phoenix,Basic,Disappointed with service.,0
+53,52,59389.0,774.0,48340,150,Phoenix,Gold,Love the mobile app!,0
+54,28,73702.0,716.0,39347,101,Philadelphia,Premium,Excellent! Best bank ever!,0
+55,40,55258.0,658.0,37522,30,Phoenix,Gold,Great service! Very satisfied.,0
+56,31,123837.0,422.0,44744,154,LA,Basic,"Terrible experience, will switch banks.",0
+57,36,100465.0,785.0,20212,197,Houston,Premium,Excellent! Best bank ever!,0
+58,54,81845.0,514.0,34973,87,Phoenix,Basic,"Average service, nothing special.",1
+59,33,148144.0,481.0,-3641,74,Houston,Gold,Love the mobile app!,1
+60,61,23358.0,834.0,46080,158,Philadelphia,Basic,Great service! Very satisfied.,0
+61,45,75735.0,,27543,66,Houston,Basic,Good experience overall.,0
+62,62,61424.0,715.0,23416,73,LA,Basic,Poor customer support.,1
+63,48,80574.0,664.0,31360,132,NYC,Premium,Good experience overall.,1
+64,24,72236.0,332.0,45481,19,Houston,Basic,Not happy with fees.,1
+65,63,124026.0,487.0,47678,152,Phoenix,Gold,Good experience overall.,0
+66,69,,380.0,2915,52,Philadelphia,Basic,Disappointed with service.,1
+67,44,109488.0,306.0,4124,160,LA,Premium,Good experience overall.,0
+68,34,67196.0,427.0,3946,189,LA,Basic,"Terrible experience, will switch banks.",1
+69,24,138310.0,306.0,10212,169,LA,Basic,Love the mobile app!,1
+70,32,62338.0,460.0,9846,55,Phoenix,Basic,"Average service, nothing special.",0
+71,57,119847.0,413.0,48381,77,Philadelphia,Basic,Great service! Very satisfied.,1
+72,29,,437.0,-2788,24,Chicago,Gold,"Average service, nothing special.",1
+73,25,26309.0,833.0,47006,139,LA,Basic,Love the mobile app!,0
+74,19,60974.0,832.0,27688,183,Houston,Basic,Not happy with fees.,1
+75,61,98449.0,666.0,29212,62,LA,Basic,Great service! Very satisfied.,0
+76,55,65696.0,483.0,49473,13,Philadelphia,Gold,Poor customer support.,0
+77,43,147456.0,587.0,44033,37,Philadelphia,Basic,Poor customer support.,0
+78,68,99490.0,459.0,10472,197,Chicago,Basic,"Terrible experience, will switch banks.",0
+79,38,,670.0,3034,140,Houston,Basic,Excellent! Best bank ever!,0
+80,67,127557.0,714.0,36494,54,Houston,Premium,Disappointed with service.,1
+81,30,59855.0,576.0,12651,123,Houston,Basic,Love the mobile app!,0
+82,36,74334.0,334.0,-3138,52,LA,Premium,Disappointed with service.,0
+83,35,49117.0,322.0,31212,67,LA,Premium,Decent but could be better.,0
+84,19,112686.0,553.0,45753,129,Houston,Basic,Excellent! Best bank ever!,0
+85,69,92765.0,835.0,13725,93,Philadelphia,Basic,Not happy with fees.,0
+86,62,29084.0,,7947,101,Chicago,Gold,Decent but could be better.,0
+87,59,61321.0,629.0,13334,124,NYC,Basic,"Average service, nothing special.",0
+88,66,94833.0,682.0,-1259,125,Houston,Premium,Good experience overall.,1
+89,45,147525.0,725.0,34087,79,Chicago,Premium,Great service! Very satisfied.,0
+90,67,63230.0,689.0,23376,87,Chicago,Gold,Poor customer support.,0
+91,40,111539.0,499.0,23681,90,Chicago,Basic,Good experience overall.,1
+92,21,63450.0,517.0,12083,13,Houston,Basic,"Terrible experience, will switch banks.",1
+93,21,104998.0,806.0,1224,142,Philadelphia,Basic,Decent but could be better.,1
+94,29,138628.0,783.0,15330,153,Houston,Basic,Decent but could be better.,1
+95,39,62970.0,655.0,40881,24,NYC,Gold,Love the mobile app!,0
+96,43,113767.0,751.0,-3049,144,Chicago,Basic,"Terrible experience, will switch banks.",0
+97,57,,674.0,-3889,182,LA,Basic,"Average service, nothing special.",1
+98,59,38673.0,426.0,46599,10,Phoenix,Premium,Decent but could be better.,0
+99,52,114030.0,513.0,-4891,149,Phoenix,Premium,Love the mobile app!,0
+100,21,58854.0,723.0,43395,61,Chicago,Premium,"Terrible experience, will switch banks.",1
+101,29,84736.0,765.0,39276,73,Phoenix,Basic,Excellent! Best bank ever!,0
+102,21,,,9698,83,Phoenix,Premium,Decent but could be better.,1
+103,69,138625.0,338.0,-4058,116,Houston,Basic,"Terrible experience, will switch banks.",1
+104,48,125731.0,784.0,45669,183,Houston,Gold,Not happy with fees.,1
+105,24,113312.0,421.0,47880,71,NYC,Premium,Decent but could be better.,0
+106,27,103048.0,538.0,35732,135,Chicago,Basic,Great service! Very satisfied.,1
+107,41,87198.0,678.0,2736,180,Phoenix,Basic,Decent but could be better.,0
+108,32,141982.0,831.0,43419,100,Houston,Premium,Great service! Very satisfied.,1
+109,56,92013.0,433.0,25178,76,Phoenix,Basic,"Terrible experience, will switch banks.",0
+110,37,,415.0,7483,138,Phoenix,Premium,Disappointed with service.,0
+111,24,30405.0,393.0,2174,9,LA,Basic,Good experience overall.,1
+112,30,76945.0,767.0,21258,115,Philadelphia,Basic,Poor customer support.,1
+113,45,117844.0,765.0,9830,20,Chicago,Gold,Decent but could be better.,0
+114,56,98675.0,364.0,10899,57,Houston,Basic,Great service! Very satisfied.,1
+115,35,128290.0,382.0,25312,21,Houston,Basic,Disappointed with service.,0
+116,64,83458.0,593.0,48461,43,LA,Basic,"Terrible experience, will switch banks.",1
+117,28,115725.0,583.0,3708,137,Houston,Basic,Good experience overall.,0
+118,53,,346.0,43236,92,LA,Basic,"Terrible experience, will switch banks.",0
+119,53,33838.0,,13608,95,Chicago,Gold,Decent but could be better.,0
+120,19,40994.0,821.0,38487,29,NYC,Gold,Love the mobile app!,0
+121,65,33147.0,643.0,29555,25,Phoenix,Basic,Not happy with fees.,1
+122,63,145914.0,773.0,38904,114,NYC,Basic,Love the mobile app!,1
+123,34,98190.0,432.0,24631,140,LA,Premium,Excellent! Best bank ever!,0
+124,23,129806.0,641.0,15947,178,Phoenix,Basic,Love the mobile app!,1
+125,58,,845.0,43539,38,Phoenix,Premium,Love the mobile app!,0
+126,63,24050.0,532.0,30704,39,Chicago,Basic,Not happy with fees.,0
+127,40,55767.0,640.0,27043,30,Phoenix,Premium,Decent but could be better.,0
+128,64,22425.0,,38381,104,Phoenix,Premium,Good experience overall.,1
+129,33,127808.0,530.0,49191,39,LA,Basic,Love the mobile app!,0
+130,58,146366.0,502.0,-420,185,LA,Premium,Decent but could be better.,1
+131,43,139555.0,732.0,46217,19,LA,Basic,Disappointed with service.,0
+132,63,136447.0,635.0,31468,71,Phoenix,Gold,Disappointed with service.,0
+133,67,140041.0,839.0,15018,173,Chicago,Premium,Excellent! Best bank ever!,0
+134,18,82683.0,584.0,34409,141,LA,Premium,Decent but could be better.,1
+135,53,131863.0,520.0,42108,168,Phoenix,Gold,Disappointed with service.,1
+136,47,144751.0,796.0,31254,184,LA,Basic,Excellent! Best bank ever!,0
+137,19,123280.0,809.0,-4295,111,Chicago,Basic,Poor customer support.,0
+138,37,113290.0,730.0,6052,124,Phoenix,Basic,"Terrible experience, will switch banks.",0
+139,22,70907.0,815.0,46770,190,LA,Basic,Excellent! Best bank ever!,0
+140,48,134510.0,771.0,27456,14,Chicago,Basic,"Terrible experience, will switch banks.",1
+141,25,38543.0,665.0,13305,162,LA,Premium,Great service! Very satisfied.,1
+142,47,119861.0,363.0,44847,129,NYC,Premium,Love the mobile app!,0
+143,56,147134.0,584.0,-3174,190,Phoenix,Gold,Great service! Very satisfied.,0
+144,19,88283.0,394.0,49187,79,Houston,Premium,"Terrible experience, will switch banks.",0
+145,30,133492.0,537.0,1808,191,Philadelphia,Premium,Decent but could be better.,0
+146,21,43327.0,826.0,16263,115,Phoenix,Premium,"Average service, nothing special.",0
+147,62,40550.0,465.0,26033,163,NYC,Premium,"Terrible experience, will switch banks.",1
+148,69,79104.0,541.0,41376,80,Houston,Premium,Good experience overall.,0
+149,25,113575.0,499.0,1443,157,Houston,Gold,Disappointed with service.,0
+150,56,43117.0,401.0,-1307,171,LA,Basic,"Average service, nothing special.",0
+151,42,72413.0,663.0,26379,60,Houston,Premium,Disappointed with service.,1
+152,24,24344.0,658.0,1714,162,Phoenix,Basic,Not happy with fees.,0
+153,31,125688.0,787.0,13115,7,Philadelphia,Basic,Good experience overall.,0
+154,46,137983.0,448.0,2028,35,Philadelphia,Basic,"Terrible experience, will switch banks.",0
+155,62,117307.0,654.0,47511,132,Chicago,Basic,Excellent! Best bank ever!,0
+156,38,64353.0,538.0,-1685,50,NYC,Basic,"Average service, nothing special.",1
+157,54,52784.0,782.0,46539,167,LA,Basic,Excellent! Best bank ever!,0
+158,66,74746.0,813.0,9271,124,Chicago,Basic,Good experience overall.,1
+159,50,137633.0,581.0,24070,97,Philadelphia,Basic,Love the mobile app!,1
+160,58,139943.0,779.0,43838,145,Houston,Basic,Great service! Very satisfied.,0
+161,42,71493.0,317.0,31802,34,LA,Basic,Not happy with fees.,0
+162,63,68531.0,653.0,14228,143,LA,Gold,Disappointed with service.,0
+163,31,72991.0,329.0,42559,15,NYC,Premium,Decent but could be better.,0
+164,26,24976.0,322.0,48376,72,NYC,Premium,Not happy with fees.,0
+165,32,85727.0,347.0,13549,154,LA,Basic,Great service! Very satisfied.,0
+166,24,27908.0,738.0,9548,102,LA,Premium,"Average service, nothing special.",0
+167,19,31128.0,511.0,-2722,73,Houston,Premium,Poor customer support.,0
+168,48,31668.0,793.0,25764,35,Houston,Basic,Poor customer support.,0
+169,24,116345.0,805.0,14009,96,Philadelphia,Premium,Good experience overall.,1
+170,58,60222.0,322.0,18841,163,Phoenix,Basic,"Terrible experience, will switch banks.",0
+171,28,135923.0,371.0,15884,91,Philadelphia,Basic,Good experience overall.,0
+172,30,131429.0,697.0,15640,7,LA,Basic,"Terrible experience, will switch banks.",1
+173,30,69265.0,679.0,-3089,167,Philadelphia,Gold,Great service! Very satisfied.,1
+174,43,87982.0,770.0,31966,89,Houston,Gold,"Terrible experience, will switch banks.",0
+175,60,142552.0,377.0,37936,64,NYC,Basic,Love the mobile app!,1
+176,67,109344.0,301.0,47775,89,Philadelphia,Premium,Decent but could be better.,0
+177,25,110201.0,677.0,45374,14,Phoenix,Basic,Love the mobile app!,1
+178,31,67900.0,303.0,12934,159,Chicago,Basic,Poor customer support.,0
+179,62,22625.0,542.0,16149,105,Phoenix,Premium,Disappointed with service.,0
+180,19,58165.0,564.0,1770,144,NYC,Basic,Great service! Very satisfied.,0
+181,59,24028.0,827.0,29486,91,LA,Premium,Poor customer support.,0
+182,32,58907.0,459.0,17779,90,Chicago,Premium,Poor customer support.,0
+183,41,73788.0,326.0,-3476,91,Phoenix,Basic,Good experience overall.,0
+184,51,,314.0,6280,147,Houston,Basic,Decent but could be better.,1
+185,21,106824.0,623.0,46173,158,LA,Basic,Good experience overall.,0
+186,35,23092.0,527.0,27104,160,LA,Basic,Great service! Very satisfied.,1
+187,42,42966.0,314.0,29726,145,Phoenix,Premium,Not happy with fees.,0
+188,64,58648.0,311.0,25511,103,Chicago,Premium,Poor customer support.,1
+189,41,41087.0,370.0,15354,48,Chicago,Basic,Good experience overall.,0
+190,23,65023.0,707.0,-3556,42,Houston,Premium,Decent but could be better.,1
+191,51,27790.0,411.0,-908,8,NYC,Gold,Good experience overall.,1
+192,68,96523.0,468.0,17800,51,NYC,Gold,"Terrible experience, will switch banks.",0
+193,55,137287.0,792.0,18120,12,Houston,Basic,Excellent! Best bank ever!,0
+194,20,28473.0,586.0,6765,102,Chicago,Premium,Excellent! Best bank ever!,0
+195,36,20687.0,704.0,31554,198,Houston,Premium,Good experience overall.,0
+196,64,50845.0,359.0,-703,12,Phoenix,Basic,Great service! Very satisfied.,1
+197,63,51436.0,374.0,35640,95,Philadelphia,Basic,Good experience overall.,0
+198,53,95650.0,761.0,-4799,79,Philadelphia,Basic,Love the mobile app!,0
+199,36,60159.0,569.0,-3440,63,Philadelphia,Basic,Disappointed with service.,1
+200,45,75840.0,657.0,30343,63,LA,Gold,Excellent! Best bank ever!,1
+201,64,95616.0,637.0,16174,21,Phoenix,Basic,Poor customer support.,1
+202,27,131913.0,569.0,43698,126,Philadelphia,Gold,"Terrible experience, will switch banks.",0
+203,35,78601.0,,5485,162,Phoenix,Gold,Good experience overall.,0
+204,21,,798.0,17303,55,Chicago,Basic,Decent but could be better.,1
+205,29,36170.0,536.0,14646,61,LA,Basic,"Average service, nothing special.",0
+206,44,26085.0,836.0,44203,124,NYC,Premium,Good experience overall.,0
+207,46,85027.0,407.0,18832,142,Chicago,Premium,Great service! Very satisfied.,1
+208,29,,387.0,48644,38,Chicago,Basic,Decent but could be better.,0
+209,28,22751.0,317.0,23010,126,Philadelphia,Basic,Disappointed with service.,1
+210,21,29413.0,356.0,25287,147,Phoenix,Gold,Excellent! Best bank ever!,0
+211,63,84946.0,439.0,-2080,90,LA,Premium,"Average service, nothing special.",0
+212,41,29666.0,719.0,41419,157,Phoenix,Basic,Not happy with fees.,0
+213,43,39162.0,624.0,26259,146,Phoenix,Basic,Decent but could be better.,0
+214,45,126727.0,382.0,35123,157,Philadelphia,Gold,Poor customer support.,0
+215,64,134131.0,375.0,6271,113,LA,Premium,Decent but could be better.,0
+216,21,127921.0,572.0,4720,185,Chicago,Basic,Not happy with fees.,0
+217,53,78259.0,470.0,46614,21,NYC,Basic,Decent but could be better.,0
+218,32,49341.0,391.0,-2963,111,Chicago,Basic,Good experience overall.,0
+219,39,88809.0,,8531,70,Chicago,Premium,"Average service, nothing special.",1
+220,66,101075.0,577.0,16980,97,Chicago,Premium,Excellent! Best bank ever!,0
+221,41,,693.0,4833,89,LA,Gold,Good experience overall.,0
+222,41,86862.0,660.0,46517,52,Chicago,Basic,Great service! Very satisfied.,0
+223,54,109474.0,316.0,-999,134,LA,Basic,"Average service, nothing special.",0
+224,22,36115.0,631.0,2780,129,LA,Basic,"Average service, nothing special.",0
+225,23,39505.0,746.0,3105,195,NYC,Basic,"Terrible experience, will switch banks.",0
+226,66,115609.0,790.0,9075,56,Phoenix,Premium,Good experience overall.,0
+227,27,120861.0,,-4021,100,LA,Premium,Decent but could be better.,0
+228,20,101416.0,379.0,32828,76,NYC,Premium,Love the mobile app!,0
+229,55,91152.0,495.0,39122,104,Phoenix,Premium,Not happy with fees.,0
+230,51,26546.0,332.0,3804,185,LA,Premium,Disappointed with service.,0
+231,23,79811.0,300.0,2460,31,Houston,Basic,Great service! Very satisfied.,0
+232,27,138695.0,427.0,25447,61,Philadelphia,Premium,Love the mobile app!,0
+233,33,37306.0,444.0,4823,110,Phoenix,Premium,"Terrible experience, will switch banks.",1
+234,46,49417.0,726.0,45000,155,Phoenix,Basic,Good experience overall.,1
+235,20,30587.0,741.0,34,193,Chicago,Premium,"Average service, nothing special.",0
+236,28,105226.0,446.0,15246,16,Phoenix,Basic,Not happy with fees.,0
+237,54,107666.0,669.0,22631,74,Houston,Gold,Disappointed with service.,0
+238,21,,638.0,35876,175,NYC,Premium,Not happy with fees.,0
+239,66,73353.0,514.0,7328,156,Chicago,Gold,"Terrible experience, will switch banks.",1
+240,21,90127.0,491.0,24924,105,NYC,Gold,Love the mobile app!,1
+241,41,99431.0,400.0,47986,61,Philadelphia,Basic,"Average service, nothing special.",0
+242,45,89201.0,468.0,16368,29,LA,Basic,Great service! Very satisfied.,0
+243,52,148890.0,460.0,4839,24,Phoenix,Gold,Great service! Very satisfied.,0
+244,55,73908.0,523.0,14985,179,NYC,Basic,"Average service, nothing special.",0
+245,67,,,31749,177,Chicago,Gold,Great service! Very satisfied.,0
+246,41,,695.0,39027,138,NYC,Gold,Disappointed with service.,1
+247,39,28986.0,462.0,1031,123,NYC,Premium,Not happy with fees.,0
+248,43,134414.0,848.0,-2828,163,Philadelphia,Basic,"Terrible experience, will switch banks.",0
+249,35,138651.0,539.0,49551,101,NYC,Premium,Disappointed with service.,1
+250,20,35933.0,841.0,13114,116,LA,Premium,Great service! Very satisfied.,0
+251,63,94023.0,310.0,38916,126,Philadelphia,Premium,Good experience overall.,0
+252,28,89428.0,693.0,23454,165,Philadelphia,Basic,Great service! Very satisfied.,0
+253,26,127215.0,423.0,33802,117,Chicago,Basic,Love the mobile app!,0
+254,50,147271.0,,6983,70,LA,Basic,"Average service, nothing special.",0
+255,43,54942.0,833.0,45459,121,Chicago,Basic,"Average service, nothing special.",1
+256,53,106280.0,417.0,39100,134,Phoenix,Basic,"Terrible experience, will switch banks.",1
+257,21,103966.0,354.0,47622,177,Houston,Premium,Disappointed with service.,1
+258,69,63728.0,742.0,19053,146,LA,Basic,Not happy with fees.,1
+259,19,54050.0,585.0,-3063,7,Philadelphia,Basic,Poor customer support.,0
+260,25,39255.0,531.0,28299,129,LA,Basic,Love the mobile app!,0
+261,24,69332.0,763.0,46427,16,Houston,Basic,Great service! Very satisfied.,1
+262,53,71971.0,668.0,23332,183,Philadelphia,Gold,Love the mobile app!,0
+263,51,105287.0,466.0,10418,77,Houston,Premium,Great service! Very satisfied.,1
+264,57,117459.0,840.0,12131,8,Chicago,Basic,Excellent! Best bank ever!,0
+265,36,97623.0,665.0,35601,137,Chicago,Premium,Poor customer support.,0
+266,46,121184.0,671.0,28701,57,NYC,Premium,Poor customer support.,0
+267,56,74477.0,475.0,3194,73,NYC,Premium,"Average service, nothing special.",0
+268,23,130791.0,587.0,2060,80,Phoenix,Premium,Great service! Very satisfied.,1
+269,27,77158.0,633.0,47694,177,Houston,Basic,Poor customer support.,0
+270,58,26173.0,517.0,8104,143,Houston,Gold,Great service! Very satisfied.,1
+271,59,112184.0,624.0,13937,96,Phoenix,Basic,Good experience overall.,0
+272,22,140870.0,327.0,10125,130,Philadelphia,Basic,Decent but could be better.,0
+273,41,44271.0,,17611,31,Chicago,Basic,Disappointed with service.,0
+274,58,63338.0,767.0,17956,7,NYC,Basic,"Average service, nothing special.",0
+275,39,84664.0,573.0,35221,25,NYC,Basic,Good experience overall.,0
+276,43,110144.0,349.0,29811,143,Chicago,Basic,Love the mobile app!,0
+277,68,64990.0,598.0,23063,32,Houston,Basic,"Terrible experience, will switch banks.",0
+278,54,45084.0,601.0,19943,161,NYC,Basic,"Terrible experience, will switch banks.",0
+279,62,118101.0,323.0,30585,85,Houston,Basic,Poor customer support.,1
+280,46,28626.0,,-2009,117,Phoenix,Gold,Poor customer support.,0
+281,53,78991.0,598.0,28127,132,NYC,Gold,Love the mobile app!,0
+282,37,101876.0,697.0,29598,48,Philadelphia,Premium,"Average service, nothing special.",0
+283,35,128723.0,719.0,41949,161,Phoenix,Basic,Disappointed with service.,1
+284,57,22483.0,453.0,27029,72,Houston,Basic,"Average service, nothing special.",1
+285,62,108777.0,531.0,37655,156,Houston,Gold,"Terrible experience, will switch banks.",1
+286,58,109015.0,645.0,16274,113,Philadelphia,Basic,Love the mobile app!,0
+287,32,87185.0,653.0,42627,156,Philadelphia,Basic,Excellent! Best bank ever!,0
+288,32,146536.0,505.0,1614,146,Phoenix,Basic,Disappointed with service.,0
+289,41,31264.0,474.0,-3130,124,Houston,Basic,"Average service, nothing special.",1
+290,46,24321.0,446.0,22835,30,LA,Basic,Decent but could be better.,1
+291,34,33342.0,591.0,45786,7,NYC,Basic,"Average service, nothing special.",0
+292,66,122164.0,677.0,8800,143,Houston,Premium,Poor customer support.,0
+293,64,96823.0,332.0,42409,179,Chicago,Basic,Not happy with fees.,0
+294,42,71730.0,682.0,31074,182,Chicago,Premium,Decent but could be better.,0
+295,33,72284.0,642.0,28730,10,Phoenix,Premium,Decent but could be better.,0
+296,67,112271.0,760.0,21446,56,Chicago,Premium,"Average service, nothing special.",0
+297,34,45019.0,519.0,7868,37,Houston,Basic,Not happy with fees.,0
+298,64,106651.0,519.0,5843,149,Houston,Basic,Excellent! Best bank ever!,0
+299,64,142324.0,,543,44,Philadelphia,Basic,Not happy with fees.,0
+300,38,74168.0,842.0,35585,150,Phoenix,Basic,Poor customer support.,1
